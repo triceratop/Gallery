@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<config>
+		[
+			{x:0, y:105, scale:0.1, alpha:0, layer:9},
+			{x:40, y:90, scale:0.2, alpha:0.08, layer:7},
+			{x:70, y:75, scale:0.3, alpha:0.2, layer:5},
+			{x:100, y:50, scale:0.4, alpha:0.3, layer:3},
+			{x:135, y:25, scale:0.5, alpha:0.4, layer:1},
+			{x:300, y:10, scale:0.7, alpha:1, layer:0},
+			{x:490, y:25, scale:0.5, alpha:0.4, layer:2},
+			{x:550, y:50, scale:0.4, alpha:0.3, layer:4},
+			{x:600, y:75, scale:0.3, alpha:0.2, layer:6},
+			{x:650, y:90, scale:0.2, alpha:0.08, layer:8},
+			{x:700, y:105, scale:0.1, alpha:0, layer:10},
+		]
+	</config>
+	<images>
+		<image url="../img/IMG_01.jpg" />
+		<image url="../img/IMG_02.jpg" />
+		<image url="../img/IMG_03.jpg" />
+		<image url="../img/IMG_04.jpg" />
+		<image url="../img/IMG_05.jpg" />
+		<image url="../img/IMG_06.jpg" />
+		<image url="../img/IMG_07.jpg" />
+		<image url="../img/IMG_08.jpg" />
+		<image url="../img/IMG_09.jpg" />
+		<image url="../img/IMG_10.jpg" />
+		<image url="../img/IMG_11.jpg" />
+	</images>
+</root>
